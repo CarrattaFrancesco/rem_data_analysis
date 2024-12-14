@@ -1,4 +1,4 @@
-### 🎁 Secret Santa README for Francesca 🎁
+### 🎁 Secret Santa for Francesca 🎁
 
 Ho ho ho! 🎅 Welcome to your special Secret Santa gift, Francesca! This is not your average present—it's a delightful dive into the world of data analysis! 
 
